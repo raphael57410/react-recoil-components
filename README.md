@@ -1,1 +1,1 @@
-# 🗽 Test Recoil for global state management state 🗽
+# 🗽 Test Recoil for global state management 🗽
